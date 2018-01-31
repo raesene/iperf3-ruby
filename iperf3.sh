@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /home/rorym/iperf3
+cd /iperf3
 
-ruby /home/rorym/iperf3/iperf3-ruby.rb
+ruby /iperf3/iperf3-ruby.rb
